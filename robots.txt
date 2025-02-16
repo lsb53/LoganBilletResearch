@@ -1,1 +1,1 @@
-Sitemap: https://lsb53.github.io/My-Academic-Website/sitemap.xml
+Sitemap: https://lsb53.github.io/LoganBilletResearch/sitemap.xml
