@@ -5,6 +5,6 @@
 
   # lsb53's Website
 
-  Visit **[lsb53.github.io/My-Academic-Website](https://lsb53.github.io/My-Academic-Website)** 🚀
+  Visit **[lsb53.github.io/LoganBilletResearch](https://lsb53.github.io/LoganBilletResearch)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
